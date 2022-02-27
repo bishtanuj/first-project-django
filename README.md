@@ -29,4 +29,4 @@ pyhton manage.py runserver
 ```
 
 Step 4: Terminal will give you output as follows:<br>
-<img align="center" width="500px" src="output.png"/>
+<img align="centre" width="500px" src="output.png"/>
