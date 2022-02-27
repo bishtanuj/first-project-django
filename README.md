@@ -11,3 +11,9 @@ Step 4: Open the command prompt on your device and write the following command:
 ```md
 python -m django --version
 ```
+## Steps to create first project using django
+Step 1: Write the following command on the terminal of Pycharm.
+```md
+django-admin startproject firstproject
+```
+Note: Here, **firstproject** is the name given to the project, which you can change as per your choice.
