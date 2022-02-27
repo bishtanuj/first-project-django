@@ -16,4 +16,16 @@ Step 1: Write the following command on the terminal of Pycharm.
 ```md
 django-admin startproject firstproject
 ```
-Note: Here, **firstproject** is the name given to the project, which you can change as per your choice.
+Note: Here, **firstproject** is the name given to the project, which you can change as per your choice. <br>
+
+Step 2: To change the directory to **firstproject**, write the following command:
+```md
+cd firstproject
+```
+
+Step 3: Now write the following command:
+```md
+pyhton manage.py runserver
+```
+
+Step 4: 
