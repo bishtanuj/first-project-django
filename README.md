@@ -33,5 +33,5 @@ pyhton manage.py runserver
 <br>
 **Step 5:** Click the link given on output, you will dircted to the browser window and see the following output:<br><br>
 <img width="1000px" src="web_output.png"/>
-<br>
+<br><br>
 **CONGRATULATIONS! You have completed the task.**
