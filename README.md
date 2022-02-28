@@ -25,7 +25,7 @@ cd firstproject
 
 **Step 3:** Now write the following command:
 ```md
-pyhton manage.py runserver
+python manage.py runserver
 ```
 
 **Step 4:** Terminal will give you output as follows:<br><br>
