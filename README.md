@@ -30,7 +30,7 @@ pyhton manage.py runserver
 
 **Step 4:** Terminal will give you output as follows:<br><br>
 <img width="500px" src="output.png"/>
-<br>
+<br><br>
 **Step 5:** Click the link given on output, you will dircted to the browser window and see the following output:<br><br>
 <img width="1000px" src="web_output.png"/>
 <br><br>
