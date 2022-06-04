@@ -32,6 +32,6 @@ python manage.py runserver
 <img width="500px" src="output.png"/>
 <br><br>
 **Step 5:** Click the link given on output, you will dircted to the browser window and see the following output:<br><br>
-<img style="float: right;" width="1000px" src="web_output.png"/>
+<img width="1000px" src="web_output.png"/>
 <br><br>
 **CONGRATULATIONS! You have completed the task.**
